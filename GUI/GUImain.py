@@ -18,7 +18,7 @@ import math
 import time
 import os
 
-###
+"""
 def connectDevice(Id):
     discovery= zi.ziDiscovery()
     device_id = discovery.find(Id)
@@ -163,7 +163,7 @@ def MainLoop(gui, variables, subs):
     gui.graphWidget.plotData(t_point, z_point)
     gui.graphWidget.canvas.draw()
 
-###
+"""
 
 #==================================================================================
 
